@@ -45,7 +45,7 @@ A lightweight, client-side password manager built with **React**, **Tailwind CSS
 ## ▶️ Getting Started
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/ciphersafe.git
+git clone https://github.com/raaj157/ciphersafe.git
 cd ciphersafe
 ```
 
@@ -84,13 +84,6 @@ See the full case study section in the portfolio for:
 - Learnings and next steps
 
 [View Case Study →](#)
-
----
-
-## 📬 Contact
-If you'd like to discuss improvements, collaborations, or see the Figma prototype:
-- Portfolio: [your-portfolio-link]
-- Email: [your-email]
 
 ---
 
