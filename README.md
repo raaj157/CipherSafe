@@ -16,7 +16,7 @@ A lightweight, client-side password manager built with **React**, **Tailwind CSS
 ## 📸 Screenshots
 | Add Password | Edit Password | Delete Password |
 |--------------|---------------|-----------------|
-| ![Add](https://github.com/raaj157/CipherSafe/blob/main/CipherSafe%20-/public/assests/CaseStudy5-img1.jpg)) | ![Edit](https://github.com/raaj157/CipherSafe/blob/main/CipherSafe%20-/public/assests/CaseStudy5-img2.jpg)) | ![Delete](https://github.com/raaj157/CipherSafe/blob/main/CipherSafe%20-/public/assests/CaseStudy5-img3.jpg) |
+| ![Add](https://github.com/raaj157/CipherSafe/blob/main/CipherSafe%20-/public/assests/CaseStudy5-img1.jpg) | ![Edit](https://github.com/raaj157/CipherSafe/blob/main/CipherSafe%20-/public/assests/CaseStudy5-img2.jpg) | ![Delete](https://github.com/raaj157/CipherSafe/blob/main/CipherSafe%20-/public/assests/CaseStudy5-img3.jpg) |
 
 ---
 
